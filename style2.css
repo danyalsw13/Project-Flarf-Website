@@ -1,0 +1,46 @@
+h1 {
+  color: Yellow;
+  text-align: center;
+  font-size: 50px;
+  font-weight: lighter;
+  
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-style:oblique;
+  color: white;
+  background-image: url('img2/window.jpg');
+  background-repeat: no-repeat;
+  background-position:right;
+
+
+}
+
+.img-blue{
+  width: 30px;
+  height: 50px;
+  background-image: url(img2/blue.jpg);
+  background-size: %;
+  background-repeat: no-repeat;
+
+}
+
+body {
+  background-image: url(img2/blue.jpg);
+}
+
+.index-last p {
+  background-image: url('img2/mermaid.jpg');
+  background-position: left;
+  background-size:contain;
+  background-repeat: repeat-x;
+
+
+
+}
+
+
+
+}

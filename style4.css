@@ -1,0 +1,35 @@
+h1 {
+  color: purple;
+
+  font-weight: lighter;
+  font-size: 55px;
+  border-style:inherit;
+}
+
+p{
+  margin-left: 120px;
+  font-size: 23px;
+  font-style: oblique;
+  font-weight: lighter;
+  background-image: url('img4/short.jpg');
+}
+
+body{
+  background-image: url('img4/fly.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.index-hair p{
+  background-image: url('img4/hat.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.index-first p{
+  background-image: url('img4/cut.jpg');
+  background-position: right;
+  background-repeat: repeat-y;
+
+
+}
